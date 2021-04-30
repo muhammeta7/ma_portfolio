@@ -1,2 +1,2 @@
 # ma_portfolio
-Django portfolio
+Django version of personal portfolio. 
